@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn2.route.split
+---
+testFramework: junit
+sourceLanguage: java
